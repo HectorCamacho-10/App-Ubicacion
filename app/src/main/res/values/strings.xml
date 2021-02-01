@@ -1,0 +1,25 @@
+<resources>
+    //Esto lo hace para dar referencia la cambio de nombre sobre las cadenas. Ya que los nombres
+    deveran tener ciertas caracteristicas
+    //Para ello se establese el cambio aqui.
+
+    <string name="app_name">Im Here With You</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="no_tienes_una_cuenta">No tienes una cuenta?</string>
+    <string name="registrate">Registrate</string>
+    <string name="inicia_sesion_con_facebook">Inicia Sesion con Facebook</string>
+
+    <string name="button_facebook">Boton de Facebook</string>
+    <string name="provedor">Provedor</string>
+    <string name="email">Email</string>
+    <string name="cerrar_secion">Cerrar Secion</string>
+    <string name="boton_de_google">Boton de Google</string>
+
+    <string name="facebook_app_id">2468339553471540</string>  //Integracion de Facebook, Claves que posee la id de la app
+    <string name="fb_login_protocol_scheme">fb2468339553471540</string> //Integracion de Facebook
+
+
+</resources>
+
